@@ -2,10 +2,6 @@
 
 **版本 Version：2026-05-24**
 
-> 上架 App Store / Google Play 時，請將此文放於公開網址（私隱政策、支援頁）。  
-> App 內註冊條款以 **繁體中文** 為準（`lib/legal/app_legal_text.dart`）；本頁英文版與繁中版內容對齊，供審核及非中文用戶參閱。  
-> For store submission, host this page at a public URL. In-app legal text is in Traditional Chinese; the English below is a aligned translation.
-
 **目錄 Contents：** [繁體中文](#繁體中文) · [English](#english)
 
 ---
